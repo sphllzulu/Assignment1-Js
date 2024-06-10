@@ -1,3 +1,5 @@
+const ps=require("prompt-sync")();
+const prompt=ps;
 //Exercise 1 if else statements
 function checkTemp(temperature) {
     if (temperature < 0) {
