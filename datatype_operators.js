@@ -1,4 +1,4 @@
-/*//Exercise 1
+//Exercise 1
 let num1=200;
 let num2=50.7;
 let add=num1+num2;
@@ -37,6 +37,5 @@ console.log(p+=2)
 console.log(p-=2)
 console.log(p*=2)
 console.log(p/=2)
-console.log(p%=3)*/
-
+console.log(p%=3)
 

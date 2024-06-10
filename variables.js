@@ -1,4 +1,4 @@
-/*//Exercise 1
+//Exercise 1
 let name="Siphelele";
 let age="24";
 let isStudent=true;
@@ -20,6 +20,6 @@ let quotient=num1/num2;
 console.log(sum);
 console.log(difference);
 console.log(product);
-console.log(quotient);*/
+console.log(quotient);
 
 
